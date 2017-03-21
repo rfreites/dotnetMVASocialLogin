@@ -1,0 +1,10 @@
+c:\users\rfreites\documents\visual studio 2017\Projects\MoviesWebApplication\MoviesWebApplication\bin\Debug\netcoreapp1.1\MoviesWebApplication.deps.json
+c:\users\rfreites\documents\visual studio 2017\Projects\MoviesWebApplication\MoviesWebApplication\bin\Debug\netcoreapp1.1\MoviesWebApplication.runtimeconfig.json
+c:\users\rfreites\documents\visual studio 2017\Projects\MoviesWebApplication\MoviesWebApplication\bin\Debug\netcoreapp1.1\MoviesWebApplication.runtimeconfig.dev.json
+c:\users\rfreites\documents\visual studio 2017\Projects\MoviesWebApplication\MoviesWebApplication\bin\Debug\netcoreapp1.1\MoviesWebApplication.dll
+c:\users\rfreites\documents\visual studio 2017\Projects\MoviesWebApplication\MoviesWebApplication\bin\Debug\netcoreapp1.1\MoviesWebApplication.pdb
+c:\users\rfreites\documents\visual studio 2017\Projects\MoviesWebApplication\MoviesWebApplication\obj\Debug\netcoreapp1.1\MoviesWebApplication.csprojResolveAssemblyReference.cache
+c:\users\rfreites\documents\visual studio 2017\Projects\MoviesWebApplication\MoviesWebApplication\obj\Debug\netcoreapp1.1\MoviesWebApplication.AssemblyInfo.cs
+c:\users\rfreites\documents\visual studio 2017\Projects\MoviesWebApplication\MoviesWebApplication\obj\Debug\netcoreapp1.1\MoviesWebApplication.dll
+c:\users\rfreites\documents\visual studio 2017\Projects\MoviesWebApplication\MoviesWebApplication\obj\Debug\netcoreapp1.1\MoviesWebApplication.pdb
+C:\Users\rfreites\documents\visual studio 2017\Projects\MoviesWebApplication\MoviesWebApplication\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
